@@ -59,4 +59,4 @@ Before starting, ensure you have the following installed:
   Chat history is automatically saved to your browser's local storage. Use the "Clear Chat History" button to clear the saved conversation.
 
 - **Custom Personality:**  
-  Kita is programmed with a warm, playful, and supportive personality, complete with occasional Japanese phrases.
+  Kita is prompted with a warm, playful, and supportive personality, complete with occasional Japanese phrases.
